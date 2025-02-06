@@ -1,0 +1,26 @@
+.buh-form {
+    display: flex;
+    flex-direction: column;
+}
+.input-container {
+    background-color: #fcfcfd;
+    width: 800px;
+    height: 50px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+.input-label {
+    width: 250px;
+    text-align: end;
+}
+.input-field {
+    width: 540px;
+}
+.input-buh {
+    border: 5px solid #2d9c80;
+    border-radius: 5px;
+    outline: none;
+}
